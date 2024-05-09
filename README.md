@@ -50,7 +50,7 @@ python nomeDaApp.py dados.xlsx relatorio.csv
 
 ## Autor
 
-Este programa foi desenvolvido por [Seu Nome].
+Este programa foi desenvolvido por João Paulo Silva.
 
 Se encontrar algum problema ou tiver alguma dúvida, sinta-se à vontade para entrar em contato.
 
